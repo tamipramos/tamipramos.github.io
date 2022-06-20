@@ -970,9 +970,9 @@ footer {
 }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
 .banner-container {
-	height: 700px;
+	height: 1024px;
 }
 #home .heading h2 {
 	font-size: 44px !important;
