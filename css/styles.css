@@ -1009,9 +1009,9 @@ footer {
 }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 1024px) {
 .banner-container {
-	height: 500px;
+	height: 1024px
 }
 #home .heading h2 {
 	font-size: 34px !important;
@@ -1054,7 +1054,7 @@ footer {
 }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 1024px) {
 .banner-container {
 }
 .grid .text-content {
