@@ -999,7 +999,7 @@ footer {
 }
 }
 
-@media (max-width:760px) {
+@media (max-width:1024px) {
 .header .navbar-nav > li > a {
 	padding: 7px 12px;
 	font-size: 14px;
